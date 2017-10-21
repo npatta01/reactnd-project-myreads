@@ -11,6 +11,13 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
+
+## Changes Made:
+Create 2 Route Based Components : SearchPage, HomePage     
+Query BooksAPI
+Create sub-components Book , BookShelf
+
+
 ## What You're Getting
 ```bash
 ├── CONTRIBUTING.md
